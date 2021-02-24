@@ -1,2 +1,1 @@
-# TextClassificationUsingNaiveBayesAndLogisticRegression
-Text Classification Using Naive Bayes And Logistic Regression
+Classification using Decision Trees
